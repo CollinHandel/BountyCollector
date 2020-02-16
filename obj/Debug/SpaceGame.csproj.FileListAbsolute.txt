@@ -1,0 +1,76 @@
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\SpaceGame\obj\Debug\SpaceGame.csprojAssemblyReference.cache
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\SpaceGame\bin\Debug\SpaceGame.pdb
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\SpaceGame\bin\Debug\SpaceGameClassLibrary.dll
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\SpaceGame\bin\Debug\SpaceGameClassLibrary.pdb
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\SpaceGame\obj\Debug\SpaceGame.csproj.CopyComplete
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\fsant\Documents\GitHub\BountyCollector\SpaceGame\bin\Debug\BountyCollector.wav
+C:\Users\fsant\Documents\GitHub\BountyCollector\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\fsant\Documents\GitHub\BountyCollector\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\fsant\Documents\GitHub\BountyCollector\SpaceGame\bin\Debug\SpaceGame.pdb
+C:\Users\fsant\Documents\GitHub\BountyCollector\SpaceGame\bin\Debug\SpaceGameClassLibrary.dll
+C:\Users\fsant\Documents\GitHub\BountyCollector\SpaceGame\bin\Debug\SpaceGameClassLibrary.pdb
+C:\Users\fsant\Documents\GitHub\BountyCollector\SpaceGame\obj\Debug\SpaceGame.csprojAssemblyReference.cache
+C:\Users\fsant\Documents\GitHub\BountyCollector\SpaceGame\obj\Debug\SpaceGame.csproj.CopyComplete
+C:\Users\fsant\Documents\GitHub\BountyCollector\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\fsant\Documents\GitHub\BountyCollector\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\fsant\Documents\GitHub\BountyCollector\SpaceGame\bin\Debug\SpaceMenu.wav
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\BountyCollector.wav
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\SpaceMenu.wav
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\SpaceGame.pdb
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\SpaceGameClassLibrary.dll
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\SpaceGameClassLibrary.pdb
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\obj\Debug\SpaceGame.csprojAssemblyReference.cache
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\obj\Debug\SpaceGame.csproj.CopyComplete
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\dlhar\OneDrive\Desktop\Projects\BountyCollector\SpaceGame\bin\Debug\BountyCollector.wav
+C:\Users\dlhar\OneDrive\Desktop\Projects\BountyCollector\SpaceGame\bin\Debug\SpaceMenu.wav
+C:\Users\dlhar\OneDrive\Desktop\Projects\BountyCollector\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\dlhar\OneDrive\Desktop\Projects\BountyCollector\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\dlhar\OneDrive\Desktop\Projects\BountyCollector\SpaceGame\bin\Debug\SpaceGame.pdb
+C:\Users\dlhar\OneDrive\Desktop\Projects\BountyCollector\SpaceGame\bin\Debug\SpaceGameClassLibrary.dll
+C:\Users\dlhar\OneDrive\Desktop\Projects\BountyCollector\SpaceGame\bin\Debug\SpaceGameClassLibrary.pdb
+C:\Users\dlhar\OneDrive\Desktop\Projects\BountyCollector\SpaceGame\obj\Debug\SpaceGame.csprojAssemblyReference.cache
+C:\Users\dlhar\OneDrive\Desktop\Projects\BountyCollector\SpaceGame\obj\Debug\SpaceGame.csproj.CopyComplete
+C:\Users\dlhar\OneDrive\Desktop\Projects\BountyCollector\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\dlhar\OneDrive\Desktop\Projects\BountyCollector\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\tyler\OneDrive\Documents\Visual Studio 2019\MSSAProjects\BountyCollector\SpaceGame\bin\Debug\BountyCollector.wav
+C:\Users\tyler\OneDrive\Documents\Visual Studio 2019\MSSAProjects\BountyCollector\SpaceGame\bin\Debug\SpaceMenu.wav
+C:\Users\tyler\OneDrive\Documents\Visual Studio 2019\MSSAProjects\BountyCollector\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\tyler\OneDrive\Documents\Visual Studio 2019\MSSAProjects\BountyCollector\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\tyler\OneDrive\Documents\Visual Studio 2019\MSSAProjects\BountyCollector\SpaceGame\bin\Debug\SpaceGame.pdb
+C:\Users\tyler\OneDrive\Documents\Visual Studio 2019\MSSAProjects\BountyCollector\SpaceGame\bin\Debug\SpaceGameClassLibrary.dll
+C:\Users\tyler\OneDrive\Documents\Visual Studio 2019\MSSAProjects\BountyCollector\SpaceGame\bin\Debug\SpaceGameClassLibrary.pdb
+C:\Users\tyler\OneDrive\Documents\Visual Studio 2019\MSSAProjects\BountyCollector\SpaceGame\obj\Debug\SpaceGame.csprojAssemblyReference.cache
+C:\Users\tyler\OneDrive\Documents\Visual Studio 2019\MSSAProjects\BountyCollector\SpaceGame\obj\Debug\SpaceGame.csproj.CopyComplete
+C:\Users\tyler\OneDrive\Documents\Visual Studio 2019\MSSAProjects\BountyCollector\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\tyler\OneDrive\Documents\Visual Studio 2019\MSSAProjects\BountyCollector\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\fsant\Documents\GitHub\BountyCollector\SpaceGame\bin\Debug\RedSand.wav
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\RedSand.wav
+C:\Users\fsant\Documents\GitHub\BountyCollector\SpaceGame\bin\Debug\Watergate.wav
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\Watergate.wav
+C:\Users\fsant\Documents\GitHub\BountyCollector\SpaceGame\bin\Debug\Illusion.wav
+C:\Users\fsant\Documents\GitHub\BountyCollector\SpaceGame\bin\Debug\Void.wav
+C:\Users\fsant\Documents\GitHub\BountyCollector\SpaceGame\bin\Debug\Static.wav
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\Watergate.wav
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\Illusion.wav
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\RedSand.wav
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\SpaceMenu.wav
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\Static.wav
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\Void.wav
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\SpaceGameClassLibrary.dll
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\SpaceGameClassLibrary.pdb
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\obj\Debug\SpaceGame.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\obj\Debug\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\obj\Debug\SpaceGame.csproj.CopyComplete
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\BountyCollector\SpaceGame\bin\Debug\SpaceGame.pdb
